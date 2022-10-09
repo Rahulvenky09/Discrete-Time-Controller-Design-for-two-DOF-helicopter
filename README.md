@@ -1,6 +1,6 @@
 # Discrete-Time-Controller-Design-for-two-DOF-helicopter
 
-We make use of two degree of freedom helicopter system due to its highly non-linear nature to design a 
+The two degree of freedom helicopter system is implemented due to its highly non-linear nature to design a 
 discrete time controller for pitch and yaw channel with the help of root locus method. The 2DOF helicopter
 system comprises of two identical propellers driven by DC motors where one propeller control the elevation 
 of the helicopter (pitch angle) and other propeller is used to control the side to side motion (yaw angle) 
